@@ -3,4 +3,4 @@
 This software creates stand alone interactive HTML files to visualize Mapper graphs.  
 
 requires bokeh >= 2.2.2  
-https://bokeh.org/
+https://bokeh.org
